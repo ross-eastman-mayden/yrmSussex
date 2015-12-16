@@ -1,0 +1,32 @@
+* {
+
+}
+
+#nav-font a {
+    font-size: 23px;
+    color: #0f0f0f;
+}
+
+#nav-font a:hover {
+    color: #337AB7;
+}
+
+.nav {
+    padding-top: 149px;
+}
+
+.navbar {
+    padding-left: 8.5%;
+    margin-bottom: -15px;
+    margin-top: -15px;
+}
+
+.social {
+    padding-top: 9%;
+    padding-right: 12.5%;
+}
+
+.banner {
+    margin-bottom: -15px;
+    margin-top: -15px;
+}
