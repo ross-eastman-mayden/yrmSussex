@@ -12,13 +12,14 @@
 }
 
 .nav {
-    padding-top: 149px;
+    margin: 0 auto;
 }
 
 .navbar {
     padding-left: 8.5%;
     margin-bottom: -15px;
     margin-top: -15px;
+
 }
 
 .social {
