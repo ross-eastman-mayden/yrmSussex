@@ -5,6 +5,12 @@
 .body-padding {
 }
 
+.nav-font {
+    margin-top: 80%;
+    width: 80%;
+    text-align: center;
+}
+
 .nav-font a {
     font-size: 23px;
     color: #0f0f0f;
@@ -14,7 +20,7 @@
     color: #337AB7;
 }
 
-.nav {
+.nav-content {
     width: 80%;
     margin: 0 auto;
 }
@@ -27,3 +33,5 @@
 
 .banner {
 }
+
+.img-gutter
